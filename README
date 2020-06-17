@@ -1,0 +1,7 @@
+KAMX_radar: The preprocessed gridded KAMX radar data using Lidar Radar Open Software Environment (LROSE) software (https://doi.org/10.5281/zenodo.2532758). The raw radar data files can be obtained from: https://www.ncdc.noaa.gov/nexradinv/ 
+
+P3_analysis: The airborne dual-Doppler radar analysis from the SAMURAI variational analysis technique. The raw radar data files can be obtained from: https://www.aoml.noaa.gov/hrd/Storm_pages/matthew2016/mission.html
+
+KAMX_hrd.nc: Generalized Velocity Track Display (GVTD) coefficients of Hurricane Michael derived from the operational Weather Surveillance Doppler (WSR-88D) radar in Miami (KAMX) observations from 1907 UTC 6 October to 0430 UTC 7 October 2016.
+
+
